@@ -1,2 +1,2 @@
 # Sudoku-Project
-https://sushma-sudokuproject.netlify.app/
+https://sudokuproject.netlify.app/
